@@ -1,6 +1,6 @@
 # [Patika.dev](https://www.patika.dev) SQL
 
-## Odev 1
+## Task 1
 
 - Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
