@@ -5,3 +5,6 @@
 
 ## Task 2
 * SQL queries ---> BETWEEN, IN
+
+## Task 3
+* SQL queries ---> LIKE, ILIKE
