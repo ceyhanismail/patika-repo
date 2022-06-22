@@ -8,3 +8,6 @@
 
 ## Task 3
 * SQL queries ---> LIKE, ILIKE
+
+## Task 4
+* SQL queries ---> DISTINCT, COUNT
