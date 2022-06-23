@@ -14,3 +14,6 @@
 
 ## Task 5
 * SQL queries ---> ORDER BY, OFFSET, LIMIT
+
+## Task 6
+* SQL queries ---> Aggregate Functions - MIN, MAX, SUM, AVG
