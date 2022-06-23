@@ -11,3 +11,6 @@
 
 ## Task 4
 * SQL queries ---> DISTINCT, COUNT
+
+## Task 5
+* SQL queries ---> ORDER BY, OFFSET, LIMIT
