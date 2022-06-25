@@ -17,3 +17,6 @@
 
 ## Task 6
 * SQL queries ---> Aggregate Functions - MIN, MAX, SUM, AVG
+
+## Task 7
+* SQL queries ---> GROUP BY, HAVING 
