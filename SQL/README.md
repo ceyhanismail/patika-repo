@@ -20,3 +20,6 @@
 
 ## Task 7
 * SQL queries ---> GROUP BY, HAVING 
+
+## Task 8
+* SQL queries ---> Creating tables and updating them - DELETE, UPDATE, SET
